@@ -1,0 +1,11 @@
+Order ID,Customer ID,Order Amount,Order Date,Payment Status
+101,1,5000,2023-03-01,Completed
+102,2,7000,2023-03-02,Completed
+103,1,3000,2023-03-05,Completed
+104,3,,2023-03-06,Failed
+105,4,4000,2023-03-07,Completed
+106,5,8000,2023-03-08,Completed
+107,2,2000,2023-03-09,Pending
+108,7,6000,2023-03-10,Completed
+109,6,3500,2023-03-11,Completed
+110,1,4500,2023-03-12,Completed

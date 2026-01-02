@@ -1,0 +1,7 @@
+customer_id,customer_name,city,total_order_amount
+1,Ravi,Bangalore,12500.0
+2,Neha,Hyderabad,7000.0
+4,Sneha,Bangalore,4000.0
+5,Arjun,Mumbai,8000.0
+6,Pooja,Chennai,3500.0
+7,Kiran,Bangalore,6000.0
